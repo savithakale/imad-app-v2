@@ -4,7 +4,8 @@ body {
     background-image : url("https://hinduismglance.files.wordpress.com/2010/01/birds.jpg");
     background-position: center center;
     background-size: cover;
-    margin-top: 75px;
+    
+    /*margin-top: 75px; */
 }
 
 .center {
@@ -12,8 +13,7 @@ body {
     
 }
 
-.text-big {
-    font-size: 300%;
+.text-big {    font-size: 300%;
 }
 
 .bold {
