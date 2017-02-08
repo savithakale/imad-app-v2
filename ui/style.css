@@ -1,11 +1,13 @@
 body {
     font-family: sans-serif;
     background-color: lightgrey;
+    background-image : url("https://hinduismglance.files.wordpress.com/2010/01/birds.jpg");
     margin-top: 75px;
 }
 
 .center {
     text-align: center;
+    
 }
 
 .text-big {
