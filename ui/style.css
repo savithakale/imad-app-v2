@@ -2,6 +2,8 @@ body {
     font-family: sans-serif;
     background-color: lightgrey;
     background-image : url("https://hinduismglance.files.wordpress.com/2010/01/birds.jpg");
+    background-position: center center;
+    background-size: cover;
     margin-top: 75px;
 }
 
